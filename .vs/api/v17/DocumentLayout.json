@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\models\\miscursosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\models\\miscursosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\leccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\leccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\models\\plataformacursoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\models\\plataformacursoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|c:\\users\\aquiles-brinco\\desktop\\practica\\web3\\iteraciones\\api\\api\\api\\controllers\\soportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257C9867-856E-4636-B7DC-C294DAE27C40}|api\\api.csproj|solutionrelative:api\\controllers\\soportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "api\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "api\\Models\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:16:50.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "api\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "api\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:49:48.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\Usuario.cs",
+              "RelativeToolTip": "api\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:46:42.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAqwE8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:39:09.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaterialesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\MaterialesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\MaterialesController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\MaterialesController.cs",
+              "RelativeToolTip": "api\\Controllers\\MaterialesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:17:40.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\ComentariosController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\ComentariosController.cs",
+              "RelativeToolTip": "api\\Controllers\\ComentariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:17:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\LeccionesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\LeccionesController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\LeccionesController.cs",
+              "RelativeToolTip": "api\\Controllers\\LeccionesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:16:20.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "api\\Controllers\\CursoesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:54:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:15:29.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T22:16:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "api\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:29:09.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MisCursosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\MisCursosViewModel.cs",
+              "RelativeDocumentMoniker": "api\\Models\\MisCursosViewModel.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\MisCursosViewModel.cs",
+              "RelativeToolTip": "api\\Models\\MisCursosViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:32:24.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\appsettings.Development.json",
+              "RelativeToolTip": "api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T13:14:43.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlataformaCursosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\PlataformaCursosContext.cs",
+              "RelativeDocumentMoniker": "api\\Models\\PlataformaCursosContext.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Models\\PlataformaCursosContext.cs",
+              "RelativeToolTip": "api\\Models\\PlataformaCursosContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:12:25.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SoportesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\SoportesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\SoportesController.cs",
+              "ToolTip": "C:\\Users\\Aquiles-Brinco\\Desktop\\practica\\web3\\iteraciones\\api\\api\\api\\Controllers\\SoportesController.cs",
+              "RelativeToolTip": "api\\Controllers\\SoportesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:55:14.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
